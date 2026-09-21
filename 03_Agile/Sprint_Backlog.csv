@@ -1,0 +1,13 @@
+Sprint,Story ID,Work Item,Priority,Owner,Status
+Sprint 1,US-007,Simplified checkout,Critical,BA+Dev,Planned
+Sprint 1,US-008,Payment methods,Critical,Dev,Planned
+Sprint 1,US-009,Payment retry,Critical,Dev+QA,Planned
+Sprint 1,US-005,Cart persistence,High,Dev,Planned
+Sprint 2,US-010,Inventory availability,Critical,Dev,Planned
+Sprint 2,US-012,Automated order status,High,Dev,Planned
+Sprint 2,US-011,Real-time tracking,High,Dev+Integration,Planned
+Sprint 3,US-013,Digital returns,High,Dev,Planned
+Sprint 3,US-014,Automated refunds,High,Dev+Finance,Planned
+Sprint 3,US-015,Notifications,Medium,Dev,Planned
+Sprint 4,US-016,Sales dashboard,High,BI,Planned
+Sprint 4,US-017,Inventory dashboard,High,BI,Planned

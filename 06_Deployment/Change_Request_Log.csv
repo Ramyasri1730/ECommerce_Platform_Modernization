@@ -1,0 +1,4 @@
+CR ID,Date,Change,Reason,Impact,Priority,Status
+CR-001,2026-08-01,Add wallet payment method,Customer payment preference,Medium,Medium,Under Review
+CR-002,2026-08-05,Add replacement workflow,Customer service requirement,Medium,High,Approved
+CR-003,2026-08-08,Add inventory alert dashboard,Operations visibility,Medium,High,Planned

@@ -1,0 +1,18 @@
+Epic,Feature,Story ID,User Story,Priority,Actor
+EPIC-01,Customer Account,US-001,"As a customer, I want to register so that I can create an account.",High,Customer
+EPIC-01,Customer Account,US-002,"As a customer, I want to manage addresses so that checkout is faster.",High,Customer
+EPIC-02,Discovery,US-003,"As a customer, I want to search and filter products so that I can find relevant items quickly.",High,Customer
+EPIC-02,Discovery,US-004,"As a customer, I want personalized recommendations so that I can discover relevant products.",Medium,Customer
+EPIC-03,Cart,US-005,"As a customer, I want my cart to persist so that I do not lose selected products.",High,Customer
+EPIC-03,Cart,US-006,"As a customer, I want to apply valid coupons so that I receive eligible discounts.",Medium,Customer
+EPIC-04,Checkout,US-007,"As a customer, I want a simplified checkout so that I can complete purchases quickly.",Critical,Customer
+EPIC-05,Payment,US-008,"As a customer, I want multiple payment methods so that I can choose a convenient option.",Critical,Customer
+EPIC-05,Payment,US-009,"As a customer, I want to retry a failed payment without creating a duplicate order.",Critical,Customer
+EPIC-06,Inventory,US-010,"As an operations user, I want near-real-time inventory availability so that overselling is reduced.",Critical,Operations
+EPIC-07,Orders,US-011,"As a customer, I want real-time order tracking so that I know where my order is.",High,Customer
+EPIC-07,Orders,US-012,"As an operations user, I want automated order status updates so that manual work is reduced.",High,Operations
+EPIC-08,Returns,US-013,"As a customer, I want to request eligible returns online so that I do not need manual support.",High,Customer
+EPIC-08,Returns,US-014,"As a customer, I want eligible refunds initiated automatically so that refund time is reduced.",High,Customer
+EPIC-09,Notifications,US-015,"As a customer, I want order notifications so that I stay informed.",Medium,Customer
+EPIC-10,Analytics,US-016,"As an executive, I want a real-time sales dashboard so that I can monitor performance.",High,Executive
+EPIC-10,Analytics,US-017,"As an operations manager, I want an inventory dashboard so that I can identify stock issues.",High,Operations

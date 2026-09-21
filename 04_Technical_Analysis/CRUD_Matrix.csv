@@ -1,0 +1,10 @@
+Entity,Create,Read,Update,Delete
+Customer,Customer Service,Customer/Support,Customer,Support/Admin
+Product,Catalog Admin,Customer/Business,Catalog Admin,Catalog Admin
+Inventory,Inventory Service,Customer/Operations,Inventory Service,Admin
+Cart,Customer,Customer,Customer,Customer
+Order,Commerce Platform,Customer/Support,Order Service,Admin controlled
+Payment,Payment Gateway,Finance/Support,Payment Service,Restricted
+Shipment,Logistics Integration,Customer/Support,Logistics Integration,Restricted
+Return,Customer,Customer/Support,Returns Team,Admin controlled
+Refund,Refund Service,Finance/Support,Refund Service,Restricted

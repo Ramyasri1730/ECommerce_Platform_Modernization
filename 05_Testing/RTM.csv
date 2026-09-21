@@ -1,0 +1,12 @@
+Requirement ID,Requirement,User Story,Test Case IDs,UAT Scenario,Status
+REQ-001,Registration/authentication,US-001,TC-001,UT-001,Planned
+REQ-003,Cart persistence,US-005,TC-002,UT-002,Planned
+REQ-004,Simplified checkout,US-007,TC-003,UT-003,Planned
+REQ-005,Multi-method payment,US-008,TC-004,UT-004,Planned
+REQ-005,Payment retry/no duplicate,US-009,TC-005,UT-005,Planned
+REQ-006,Inventory visibility,US-010,TC-006,UT-006,Planned
+REQ-007,Automated order processing,US-012,TC-007,UT-007,Planned
+REQ-008,Real-time tracking,US-011,TC-008,UT-008,Planned
+REQ-009,Digital return,US-013,TC-009,UT-009,Planned
+REQ-010,Automated refund,US-014,TC-010,UT-010,Planned
+REQ-012,Operational dashboard,US-016/017,TC-011,UT-011,Planned

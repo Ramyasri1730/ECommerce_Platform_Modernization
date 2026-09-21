@@ -1,0 +1,15 @@
+Stakeholder,Type,Influence,Interest,Primary Concern,Engagement
+CEO,Executive Sponsor,High,High,Strategic outcomes,Manage closely
+Product Owner,Business/Product Owner,High,High,Product scope and prioritization,Manage closely
+Marketing Team,Business,Medium,High,Personalization/campaigns,Keep involved
+Sales Team,Business,Medium,Medium,Conversion and sales process,Consult
+Customer Support,Operations,High,High,Complaints/order inquiries,Manage closely
+Warehouse Team,Operations,High,High,Inventory/order processing,Manage closely
+Logistics Team,External/Internal,High,High,Shipment tracking,Manage closely
+Finance Team,Business,Medium,High,Refund/payment reconciliation,Consult
+Technology Team,Delivery,High,High,Architecture/integrations,Manage closely
+QA Team,Delivery,High,Medium,SIT/UAT quality,Manage closely
+Customers,External,High,High,Customer experience,Consult/validate
+Delivery Partners,External,Medium,Medium,Shipment events,Coordinate
+Payment Gateway,External,High,High,Payment authorization,Coordinate
+Vendors,External,Medium,Medium,Products/integrations,Consult

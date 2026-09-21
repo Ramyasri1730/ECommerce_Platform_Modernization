@@ -1,0 +1,4 @@
+Defect ID,Severity,Module,Description,Status,Owner
+DEF-001,High,Payment,Retry created duplicate transaction in test scenario,Open,Development
+DEF-002,Medium,Tracking,Carrier status not mapped to customer-friendly status,Open,Integration
+DEF-003,Low,Dashboard,Inventory KPI rounding differs from source report,Open,BI

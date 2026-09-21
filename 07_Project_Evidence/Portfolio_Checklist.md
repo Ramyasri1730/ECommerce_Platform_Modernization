@@ -1,0 +1,43 @@
+# GitHub Portfolio Checklist
+
+- [ ] README
+- [ ] Business Case
+- [ ] Project Charter
+- [ ] Stakeholder Register
+- [ ] RACI Matrix
+- [ ] Scope
+- [ ] BRD
+- [ ] FRD
+- [ ] SRS
+- [ ] Requirement Catalogue
+- [ ] Gap Analysis
+- [ ] As-Is Process
+- [ ] To-Be Process
+- [ ] BPMN/Swimlane
+- [ ] Customer Journey
+- [ ] Use Cases
+- [ ] Product Vision
+- [ ] User Stories
+- [ ] Acceptance Criteria
+- [ ] Product Backlog
+- [ ] Sprint Backlog
+- [ ] Release Plan
+- [ ] API Requirements
+- [ ] ERD
+- [ ] DFD
+- [ ] Data Dictionary
+- [ ] CRUD Matrix
+- [ ] RTM
+- [ ] Test Cases
+- [ ] UAT Scenarios
+- [ ] Defect Log
+- [ ] Go-Live Checklist
+- [ ] Release Notes
+- [ ] Change Request Log
+- [ ] User Manual
+- [ ] Training Guide
+- [ ] Hypercare Plan
+- [ ] Sample dataset
+- [ ] SQL analysis
+- [ ] Dashboard specification
+- [ ] Presentation story

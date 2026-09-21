@@ -1,0 +1,22 @@
+Entity,Field,Type,Description,Required
+Customer,CustomerID,String,Unique customer identifier,Yes
+Customer,Email,String,Customer email address,Yes
+Product,ProductID,String,Unique product identifier,Yes
+Product,Category,String,Product category,Yes
+Product,UnitPrice,Decimal,Current selling price,Yes
+Inventory,InventoryID,String,Inventory record identifier,Yes
+Inventory,AvailableQty,Integer,Available-to-sell quantity,Yes
+Cart,CartID,String,Shopping cart identifier,Yes
+Order,OrderID,String,Unique order identifier,Yes
+Order,OrderDate,DateTime,Order creation timestamp,Yes
+Order,OrderStatus,String,Current order status,Yes
+Order,OrderAmount,Decimal,Total order value,Yes
+Payment,PaymentID,String,Payment transaction identifier,Yes
+Payment,PaymentMethod,String,Payment method,Yes
+Payment,PaymentStatus,String,Payment outcome,Yes
+Shipment,ShipmentID,String,Shipment identifier,Yes
+Shipment,TrackingStatus,String,Current shipment status,Yes
+Return,ReturnID,String,Return identifier,No
+Return,ReturnStatus,String,Return workflow status,No
+Refund,RefundID,String,Refund identifier,No
+Refund,RefundStatus,String,Refund workflow status,No

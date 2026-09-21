@@ -1,0 +1,12 @@
+Test Case ID,Module,Scenario,Precondition,Expected Result,Priority
+TC-001,Authentication,Valid customer registration,Unique customer data,Account created,High
+TC-002,Cart,Cart persistence,Authenticated customer has cart,Items remain after re-login,High
+TC-003,Checkout,Valid checkout,Eligible cart and address,Payment step reached with correct total,Critical
+TC-004,Payment,Successful payment,Valid payment details,Order confirmed once,Critical
+TC-005,Payment,Payment failure and retry,Initial payment fails,Retry succeeds without duplicate order,Critical
+TC-006,Inventory,Inventory reservation,Product has available quantity,Reserved quantity reflected,Critical
+TC-007,Order,Automated processing,Successful payment,Order progresses without manual re-entry,Critical
+TC-008,Tracking,Tracking event received,Shipment exists,Customer sees mapped status,High
+TC-009,Returns,Eligible return,Delivered eligible item,Return request created,High
+TC-010,Refund,Approved return refund,Return approved,Refund initiated and logged,High
+TC-011,Analytics,Dashboard KPI validation,Source data available,Dashboard reconciles,High

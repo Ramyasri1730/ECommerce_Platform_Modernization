@@ -1,0 +1,11 @@
+Deliverable/Activity,Accountable,Responsible,Consulted,Informed
+Business Case,CEO,Product Owner,BA,Technology
+Requirements,Product Owner,BA,Technology,QA
+Process Design,Product Owner,BA,Technology,Operations
+UX/Wireframes,Product Owner,BA,Design,QA
+API Requirements,Technology,BA,Payment/Logistics,Product Owner
+User Stories,Product Owner,BA,Technology,QA
+SIT,Technology,QA,BA,Product Owner
+UAT,Product Owner,BA,QA,Business SMEs
+Go-Live,CEO,Product Owner,Technology,BA
+Hypercare,Product Owner,Technology,BA,Support
